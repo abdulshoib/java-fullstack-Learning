@@ -1,16 +1,24 @@
-# java-fullstack-projects
 # Java Full Stack Projects 🚀
 
-## About
-This repository contains my daily coding practice and projects.
+This repository contains my daily practice and learning for Java Full Stack Development.
 
-## Progress
-- Day 1: Student Result System
+## 📅 Daily Progress
 
-## Technologies
+- Day01 - Basic Java Programs
+- Day02 - Arrays (Sum, Max, Even/Odd)
+- Day03 - Loop Programs
+- Day04 - Pattern Programs
+- Day05 - OOP (Class, Object, Constructor)
+
+## 🛠️ Technologies Used
+
 - Java
-- OOP
-- (Upcoming: JDBC, Spring Boot)
+- Git & GitHub
 
-## Goal
-To become Java Full Stack Developer
+## 🎯 Goal
+
+To become a Java Full Stack Developer by building projects daily and improving coding skills.
+
+## 📌 Author
+
+- Shoaib
