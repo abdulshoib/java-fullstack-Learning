@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Student {
 
     int id;
-    String name;
+    String name; 
     double marks;
 
     // Constructor
