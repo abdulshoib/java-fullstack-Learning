@@ -1,24 +1,67 @@
-# Java Full Stack Projects 🚀
+# Java Full Stack Learning Progress
 
-This repository contains my daily practice and learning for Java Full Stack Development.
+This repository tracks my Java Full Stack learning journey with daily and weekly practice programs.
 
-## 📅 Daily Progress
+## Learning Progress
 
-- Day01 - Basic Java Programs
-- Day02 - Arrays (Sum, Max, Even/Odd)
-- Day03 - Loop Programs
-- Day04 - Pattern Programs
-- Day05 - OOP (Class, Object, Constructor)
+### Day01-14: Core Java Basics
 
-## 🛠️ Technologies Used
+- Java syntax
+- Variables and data types
+- Operators
+- Conditional statements
+- Loops
+- Arrays
+- Strings
+- Pattern programs
+- Methods
+- Object-Oriented Programming
+- Inheritance
+- Polymorphism
+- Abstraction
+- Interfaces
+- Exception Handling
 
-- Java
-- Git & GitHub
+### Week3: File Handling and Multithreading
 
-## 🎯 Goal
+- FileWriter and FileReader
+- BufferedReader and BufferedWriter
+- File read and write operations
+- Thread class
+- Runnable interface
+- Thread sleep
+- Thread priority
+- Thread names
+- Basic multithreading programs
 
-To become a Java Full Stack Developer by building projects daily and improving coding skills.
+### Week4: JDBC and MySQL
 
-## 📌 Author
+- MySQL database connection
+- JDBC driver setup
+- Insert operation
+- View records
+- Deposit money operation
+- Withdraw money operation
+- Basic CRUD operations
+- Bank application practice
 
-- Shoaib
+### Week5: Collections Framework
+
+- Day 1: ArrayList programs
+- Day 2: LinkedList programs
+- Day 3: HashSet programs
+
+## Current Status
+
+Currently practicing Java Collections Framework and improving hands-on coding skills with daily GitHub commits.
+
+## Upcoming Topics
+
+- TreeSet
+- HashMap
+- LinkedHashMap
+- TreeMap
+- Java 8 features
+- Spring Boot basics
+- REST API development
+- Spring Boot with MySQL
