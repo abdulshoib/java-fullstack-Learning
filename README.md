@@ -47,9 +47,13 @@ This repository tracks my Java Full Stack learning journey with daily and weekly
 
 ### Week5: Collections Framework
 
+-### Week5: Collections Framework
+
 - Day 1: ArrayList programs
 - Day 2: LinkedList programs
 - Day 3: HashSet programs
+- Day 4: TreeSet programs
+- Day 5: HashMap programs
 
 ## Current Status
 
