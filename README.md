@@ -54,6 +54,7 @@ This repository tracks my Java Full Stack learning journey with daily and weekly
 - Day 3: HashSet programs
 - Day 4: TreeSet programs
 - Day 5: HashMap programs
+- Day 6: LinkedHashMap programs
 
 ## Current Status
 
