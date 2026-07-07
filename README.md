@@ -56,6 +56,10 @@ This repository tracks my Java Full Stack learning journey with daily and weekly
 - Day 5: HashMap programs
 - Day 6: LinkedHashMap programs
 
+### Week6: Java 8 Features
+
+- Day 1: Lambda Expression programs
+
 ## Current Status
 
 Currently practicing Java Collections Framework and improving hands-on coding skills with daily GitHub commits.
