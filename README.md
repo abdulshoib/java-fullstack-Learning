@@ -60,6 +60,7 @@ This repository tracks my Java Full Stack learning journey with daily and weekly
 
 - Day 1: Lambda Expression programs
 - Day 2: Functional Interface and Predicate programs
+- Day 4: Function interface programs
 
 ## Current Status
 
