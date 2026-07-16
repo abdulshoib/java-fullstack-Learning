@@ -64,6 +64,7 @@ This repository tracks my Java Full Stack learning journey with daily and weekly
 - Day 4: Function interface programs
 - Day 5: Stream API programs
 - Day 6: Optional class programs
+- Day 7: Method Reference programs
 
 ## Current Status
 
