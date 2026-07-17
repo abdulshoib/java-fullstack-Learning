@@ -66,6 +66,10 @@ This repository tracks my Java Full Stack learning journey with daily and weekly
 - Day 6: Optional class programs
 - Day 7: Method Reference programs
 
+## Week7: Date & Time API
+
+- Day 1: LocalDate and LocalTime programs
+
 ## Current Status
 
 Currently practicing Java Collections Framework and improving hands-on coding skills with daily GitHub commits.
