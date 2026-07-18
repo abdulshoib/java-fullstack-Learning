@@ -69,6 +69,7 @@ This repository tracks my Java Full Stack learning journey with daily and weekly
 ## Week7: Date & Time API
 
 - Day 1: LocalDate and LocalTime programs
+- Day 2: LocalDateTime and DateTimeFormatter programs
 
 ## Current Status
 
