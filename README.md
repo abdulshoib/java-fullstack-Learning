@@ -71,6 +71,7 @@ This repository tracks my Java Full Stack learning journey with daily and weekly
 - Day 1: LocalDate and LocalTime programs
 - Day 2: LocalDateTime and DateTimeFormatter programs
 - Day 3: Period and Duration programs
+- Day 4: ZoneId and ZonedDateTime programs
 
 ## Current Status
 
