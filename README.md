@@ -73,6 +73,7 @@ This repository tracks my Java Full Stack learning journey with daily and weekly
 - Day 3: Period and Duration programs
 - Day 4: ZoneId and ZonedDateTime programs
 - Day 5: ChronoUnit and TemporalAdjusters programs
+- Day 6: Date & Time API practice applications
 
 ## Current Status
 
