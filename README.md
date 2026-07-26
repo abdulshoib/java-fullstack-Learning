@@ -75,6 +75,10 @@ This repository tracks my Java Full Stack learning journey with daily and weekly
 - Day 5: ChronoUnit and TemporalAdjusters programs
 - Day 6: Date & Time API practice applications
 
+## Week 8: Advanced Core Java
+
+- Day 1: Generics Basics
+
 ## Current Status
 
 Currently practicing Java Collections Framework and improving hands-on coding skills with daily GitHub commits.
