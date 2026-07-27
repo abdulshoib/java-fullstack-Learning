@@ -78,6 +78,7 @@ This repository tracks my Java Full Stack learning journey with daily and weekly
 ## Week 8: Advanced Core Java
 
 - Day 1: Generics Basics
+- Day 2: Generic Classes and Generic Methods
 
 ## Current Status
 
