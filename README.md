@@ -47,8 +47,6 @@ This repository tracks my Java Full Stack learning journey with daily and weekly
 
 ### Week5: Collections Framework
 
-
-
 - Day 1: ArrayList programs
 - Day 2: LinkedList programs
 - Day 3: HashSet programs
@@ -79,6 +77,7 @@ This repository tracks my Java Full Stack learning journey with daily and weekly
 
 - Day 1: Generics Basics
 - Day 2: Generic Classes and Generic Methods
+- Day 3: Wrapper Classes
 
 ## Current Status
 
