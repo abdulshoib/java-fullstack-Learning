@@ -78,6 +78,7 @@ This repository tracks my Java Full Stack learning journey with daily and weekly
 - Day 1: Generics Basics
 - Day 2: Generic Classes and Generic Methods
 - Day 3: Wrapper Classes
+- Day 4: Autoboxing and Unboxing
 
 ## Current Status
 
