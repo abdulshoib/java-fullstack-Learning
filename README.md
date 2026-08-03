@@ -82,6 +82,10 @@ This repository tracks my Java Full Stack learning journey with daily and weekly
 - Day 5: Enums
 - Day 6: Annotations
 
+## Week 9: Java I/O & Serialization
+
+- Day 1: File Class and File Operations
+
 ## Current Status
 
 Currently practicing Java Collections Framework and improving hands-on coding skills with daily GitHub commits.
