@@ -85,6 +85,7 @@ This repository tracks my Java Full Stack learning journey with daily and weekly
 ## Week 9: Java I/O & Serialization
 
 - Day 1: File Class and File Operations
+- Day 2: FileInputStream and FileOutputStream
 
 ## Current Status
 
