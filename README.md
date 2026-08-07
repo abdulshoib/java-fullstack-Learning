@@ -87,6 +87,7 @@ This repository tracks my Java Full Stack learning journey with daily and weekly
 - Day 1: File Class and File Operations
 - Day 2: FileInputStream and FileOutputStream
 - Day 3: BufferedReader and BufferedWriter
+- Day 4: FileReader and FileWriter
 
 ## Current Status
 
