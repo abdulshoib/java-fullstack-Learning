@@ -88,6 +88,7 @@ This repository tracks my Java Full Stack learning journey with daily and weekly
 - Day 2: FileInputStream and FileOutputStream
 - Day 3: BufferedReader and BufferedWriter
 - Day 4: FileReader and FileWriter
+- Day 5: Java Serialization
 
 ## Current Status
 
