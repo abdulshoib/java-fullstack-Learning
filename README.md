@@ -89,6 +89,7 @@ This repository tracks my Java Full Stack learning journey with daily and weekly
 - Day 3: BufferedReader and BufferedWriter
 - Day 4: FileReader and FileWriter
 - Day 5: Java Serialization
+- Day 6: Deserialization and Try-with-Resources
 
 ## Current Status
 
