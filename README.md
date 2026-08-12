@@ -90,6 +90,7 @@ This repository tracks my Java Full Stack learning journey with daily and weekly
 - Day 4: FileReader and FileWriter
 - Day 5: Java Serialization
 - Day 6: Deserialization and Try-with-Resources
+- Day 7: Student File Management Mini Project
 
 ## Current Status
 
